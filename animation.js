@@ -1,5 +1,4 @@
 const popmotion = require("popmotion");
-require("./useles");
 
 const { styler, spring, listen, pointer, value } = popmotion;
 
